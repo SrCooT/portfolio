@@ -1,10 +1,11 @@
 :root {
-    --cor-primaria: #43bd8e;
-    --cor-secundaria: #FD6C22;    
-    --cor-branca: #fff;
-    --cor-fundo-escuro: #040203;    
-    --cor-fundo-cinza-escuro: #282828;
-    --cor-fundo-cinza-claro: #353535;    
+    --cor-primaria: #535379;
+    --cor-secundaria: #F26938;    
+    --cor-branca: #daafa0;
+    --cor-fundo-escuro: #fff;    
+    --cor-fundo-cinza-escuro: background: rgb(36,51,252);
+    background: linear-gradient(325deg, rgba(36,51,252,1) 0%, rgba(9,30,121,1) 39%, rgba(0,155,255,1) 100%);;
+    --cor-fundo-cinza-claro: #011640;    
   }
     
   :root {
