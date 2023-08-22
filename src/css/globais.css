@@ -90,3 +90,16 @@ html {
     color: var(--cor-branca);
   }
 
+  button#backToTopBtn  {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #F26938;
+    color: black;
+    border: none;
+    border-radius: 20px;
+    padding: 5px 10px;
+    cursor: pointer;
+    display: none;
+    font-size: 25px;
+}
