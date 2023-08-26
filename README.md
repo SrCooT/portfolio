@@ -10,3 +10,6 @@ Tecnologias utilizadas:
 
 
 <img src="src/imagens/pag.gif" alt="gif da pag">
+
+
+- <strong>Obrigado por visitar<strong>  -
